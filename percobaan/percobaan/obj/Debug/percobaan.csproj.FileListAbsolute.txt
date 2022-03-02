@@ -1,0 +1,7 @@
+C:\Users\user\Documents\SharpDevelop Projects\percobaan\percobaan\bin\Debug\percobaan.exe
+C:\Users\user\Documents\SharpDevelop Projects\percobaan\percobaan\bin\Debug\percobaan.pdb
+C:\Users\user\Documents\SharpDevelop Projects\percobaan\percobaan\obj\Debug\percobaan.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\SharpDevelop Projects\percobaan\percobaan\obj\Debug\percobaan.MainForm.resources
+C:\Users\user\Documents\SharpDevelop Projects\percobaan\percobaan\obj\Debug\percobaan.csproj.GenerateResource.Cache
+C:\Users\user\Documents\SharpDevelop Projects\percobaan\percobaan\obj\Debug\percobaan.exe
+C:\Users\user\Documents\SharpDevelop Projects\percobaan\percobaan\obj\Debug\percobaan.pdb
